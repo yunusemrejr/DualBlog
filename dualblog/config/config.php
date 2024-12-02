@@ -41,8 +41,8 @@ $file_paths_relative_to_config = [
 ];
 
 $company_name = 'OPCTurkey';
-$company_url = 'https://opcturkey.com';
-$company_email = 'info@opcturkey.com';
+$company_url = 'https://ee.com';
+$company_email = 'info@ee.com';
 $company_phone = '+905326666666';
 $company_address = 'Turkey';
 $cms_language = 'tr';
