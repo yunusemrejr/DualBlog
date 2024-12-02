@@ -3,13 +3,13 @@
 $db_config = [
     'public_blog' => [
         'host' => 'localhost',
-        'database' => 'u6585514_opcblog',
+        'database' => 'db1',
         'username' => 'root',
         'password' => 'root',
     ],
     'private_blog' => [
         'host' => 'localhost',
-        'database' => 'u6585514_yev_cms',
+        'database' => 'db2',
         'username' => 'root',
         'password' => 'root',
     ],
