@@ -15,7 +15,7 @@ $db_config = [
     ],
 ];
 
-$private_blog_access_code = "Aspotomasyon.89*";
+$private_blog_access_code = "TEST";
 
 $main_folder = 'dualblog'; // Ensure this matches the main folder name for the engine
 
