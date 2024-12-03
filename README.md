@@ -1,4 +1,4 @@
-# WARNING. REPO HAS BEEN MOVED TO [https://github.com/yunusemrejr/yunusemrejr/blob/](https://github.com/yunusemrejr/dualblogengine/tree/main)
+# WARNING. REPO HAS BEEN MOVED TO [https://github.com/yunusemrejr/dualblogengine](https://github.com/yunusemrejr/dualblogengine/tree/main)
 #This was the initial repo
 # DualBlog
 DualBlog blogging engine with a default private and public blog with a CMS.
